@@ -24,3 +24,14 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+.flex-center{
+    align-content: center;
+    align-items: center;
+    height: 100%;
+}
+.flex-right{
+    align-content: right;
+    align-items: right;
+    height: 100%;
+}
